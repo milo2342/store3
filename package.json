@@ -1,0 +1,7 @@
+{
+  "name": "wcrp-devops-store",
+  "version": "2.2.0",
+  "private": true,
+  "scripts": {"start": "node server.js", "check": "node --check server.js"},
+  "engines": {"node": ">=18.17.0"}
+}
